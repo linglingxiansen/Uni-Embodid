@@ -1,7 +1,6 @@
 <div align="center">
-<img src="./icon.png" width="1280"/>
+<img src="./icon.png" width="200"/>
 </div>
-
 # Uni-Embodied: Towards Unified Evaluation for Embodied Planning, Perception, and Execution
 
 <p align="center">
