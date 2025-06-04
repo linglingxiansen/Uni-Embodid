@@ -9,6 +9,12 @@
 </p>
 
 
+
+### Dataset and Benchmark
+
+See [🤗 Uni-Embodied](https://huggingface.co/datasets/llxs/Uni-Embodied)
+
+
 ### Usage for Prediction
 ```python
 # Option 1: Using Open Source Model
